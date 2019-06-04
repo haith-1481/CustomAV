@@ -47,6 +47,7 @@
 		2C77E3212224F44C0050BAFB /* customAVPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customAVPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C77E3252224F44C0050BAFB /* customAVPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customAVPlayerUITests.swift; sourceTree = "<group>"; };
 		2C77E3272224F44C0050BAFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C77E3332224F5C80050BAFB /* bulletTrain.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = bulletTrain.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				2C77E30C2224F44C0050BAFB /* Assets.xcassets */,
 				2C77E30E2224F44C0050BAFB /* LaunchScreen.storyboard */,
 				2C77E3112224F44C0050BAFB /* Info.plist */,
+				2C77E3332224F5C80050BAFB /* bulletTrain.mp4 */,
 			);
 			path = customAVPlayer;
 			sourceTree = "<group>";
